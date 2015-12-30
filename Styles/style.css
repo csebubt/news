@@ -1,0 +1,17 @@
+/* CSS Document */
+
+
+div
+{
+	height:90px;
+	margin:10px;
+}
+
+.mainbody
+{
+	min-height:300px;
+	height:auto;
+	overflow:hidden;
+	border:rgba(53,46,46,1.00) thin solid;
+	width:90%;
+}
